@@ -98,11 +98,12 @@ Our vision is to revolutionize urban mobility by creating a decentralized, trust
 
 ## Contract Address Details
 
-**Contract Address**: *[To be added after deployment]*
+**Contract Address**:
+contract ID:ST2NQVDZW98SMVCJ6EFZ0NFT7PTFVPQEP1RZQR5BP.CarSharingNetwork
+CarSharingNetwork
 
-**Network**: Stacks Mainnet
+**Network**: Stacks  Testnet4
 
-**Token Address**: *[CarShare token address to be added]*
 
 ## Contributing
 
@@ -112,13 +113,4 @@ We welcome contributions from the community! Please refer to our contribution gu
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
 
-For questions, partnerships, or support, please contact our team at:
-- Email: [To be added]
-- Discord: [To be added]
-- Twitter: [To be added]
-
----
-
-*Building the future of decentralized mobility, one block at a time.*
