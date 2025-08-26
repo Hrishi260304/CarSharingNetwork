@@ -105,12 +105,4 @@ CarSharingNetwork
 **Network**: Stacks  Testnet4
 
 
-## Contributing
-
-We welcome contributions from the community! Please refer to our contribution guidelines and feel free to submit pull requests or open issues.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 
